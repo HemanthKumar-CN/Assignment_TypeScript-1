@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc --watch src/index1.ts",
+    "build": "tsc --watch src/index3.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
